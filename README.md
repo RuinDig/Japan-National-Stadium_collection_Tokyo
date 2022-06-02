@@ -1,4 +1,7 @@
 # Japan-National-Stadium_collection_Tokyo
+CC-BY-4.0 - <a href="https://github.com/RuinDig/Tokyo2020_The-Olympic-Flame">RuinDig/Yuki Uchida</a>
+<div style="text-align: center;"><a href="https://creativecommons.org/licenses/by/4.0/deed.ja"><img src="https://user-images.githubusercontent.com/20723919/145936543-577c7705-90e2-4d56-ad5d-26b0fbcea02d.png"></a></div>
+
 国立競技場の建設中と完成後の外観 Under construction and completion, exterior of the Japan National Stadium
 
 ![001_Japan-National-Stadium_collection_Tokyo](https://user-images.githubusercontent.com/20723919/126792909-36c690fb-17e6-4c27-b083-029434cfe431.JPG)
